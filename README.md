@@ -93,7 +93,7 @@ Its features include:
 
 <b> Application Link & Future Scope: </b>
 
-The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
+  [You can access the source code here]().
 
 This app basically helps students to stay tuned with the college info inspite of teaching mode being online. The app contains the latest college info which is beneficial to students as they won't miss out any Important info. Ebooks uploaded in this app can be directly downloaded by the user into their device which helps the Professors as well as classmates to share resources. The Faculty details provided by the app helps students to get to know about the concerned faculty
 
