@@ -20,10 +20,11 @@ Its features include:
 - [x] Announcements of future events and Pics of Past Events 
 - [x] Uploading and Displaying of Ebooks (A substitute for Hard copies of notes)
 - [x] Inserting, Updating and Displaying of Faculty Info
+<br>
 <b> Home Page UI </b>
 <img src = "images/HomePageUI.jpeg" width = 200>
-
-Display Notice UI
+<br>
+<b> Display Notice UI </b>
 <img src = "images/DisplayNotice.jpeg" width = 200>
     	  	
 <b> Functionality & Concepts used : </b>
