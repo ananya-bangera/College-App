@@ -34,7 +34,7 @@ Its features include:
  </table>
  <br>
  <br>
- <b>Updating Features UI</b>
+ <b>Uploading Features UI</b>
  <br>
 <table>
   <tr>
@@ -58,7 +58,7 @@ Its features include:
   <tr>
     <td><b> Displaying Faculty Details Before Updating</b></td>
      <td><b> Updating Faculty Details </b></td>
-     <td><b> Displaying Faculty Details Before Updating</b></td>
+     <td><b> Displaying Faculty Details After Updating</b></td>
   </tr>
   <tr>
     <td><img src = "images/DisplayingFacultyDetails.jpeg" width = 200></td>
