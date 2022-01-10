@@ -4,7 +4,7 @@ College Data Storage System
 
 <b> Problem Statement: </b>
 
-Over a great period, many issues have been faced by our students due to college in online mode. 
+Over a great period, many issues have been faced by our students due to colleges being conducted in online mode. 
 A proper system to store data such as :
 - [x] Notice
 - [x] Images of different events organised by the institute 
