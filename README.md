@@ -34,14 +34,14 @@ Its features include:
 
 <table>
   <tr>
-    <td><b> Display Notice UI </b></td>
-     <td><b> Display Notice UI </b></td>
-     <td><b> Display Notice UI </b></td>
+    <td><b> Upload Notice UI </b></td>
+     <td><b> Upload Images UI </b></td>
+     <td><b> Upload Ebook UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
-    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
-    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
+    <td><img src = "images/UploadNotice.jpeg" width = 200></td>
+    <td><img src = "images/UploadImage.jpeg" width = 200></td>
+    <td><img src = "images/UploadEbook.jpeg" width = 200></td>
   </tr>
  </table>
 <b> Functionality & Concepts used : </b>
