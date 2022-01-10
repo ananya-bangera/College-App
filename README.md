@@ -1,5 +1,4 @@
-# College-App
-# Android-Study-Jams
+# College-App : Android-Study-Jams
 
 College Data Storage System
 
