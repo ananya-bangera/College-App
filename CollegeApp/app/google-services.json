@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575379108678",
+    "project_id": "vjti-app-91873",
+    "storage_bucket": "vjti-app-91873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575379108678:android:caf9b101e8feabe5362b47",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575379108678-oqp4dda6sf5kl3mc1r18d4db1pq0l6np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMInYq8R54GGxjPkXuKGzeax11ngMqwlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575379108678-oqp4dda6sf5kl3mc1r18d4db1pq0l6np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
