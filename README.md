@@ -26,21 +26,21 @@ Its features include:
 <img src = "images/HomePageUI.jpeg" width = 200>
 <br>
 <br>
-<b> Display Notice UI </b>
+
 <br>
-<img src = "images/DisplayNotice.jpeg" width = 200/><img src = "images/DisplayNotice.jpeg" width = 200/>
+
 <br>
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td><b> Display Notice UI </b></td>
+     <td><b> Display Notice UI </b></td>
+     <td><b> Display Notice UI </b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
+    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
+    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
   </tr>
  </table>
 <b> Functionality & Concepts used : </b>
