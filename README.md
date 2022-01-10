@@ -87,7 +87,7 @@ Its features include:
 
 - The App has a very simple ,user-friendly and interactive interface which helps the students to get updated college info , free notes(can be uploaded by professor or any class mate) and Faculty Info. Following are few android concepts used to achieve the functionalities in app : 
 - Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
-- Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students as well as for the faculty
+- Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students as well as for the faculty to use the app
 - Attractive UI which conveniences the user to explore more about the app
 - RecyclerView : To present the list of different notices, event images , ebooks and faculty details we used the efficient recyclerview.
 
