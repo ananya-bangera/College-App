@@ -33,10 +33,12 @@ Its features include:
  </table>
  <br>
  <br>
+ <b>Updating Features UI</b>
+ <br>
 <table>
   <tr>
     <td><b> Upload Notice UI </b></td>
-     <td><b> Upload Images UI </b></td>
+     <td><b> Upload Event Images UI </b></td>
      <td><b> Upload Ebook UI </b></td>
     <td><b> Insert Faculty UI </b></td>
   </tr>
@@ -63,6 +65,24 @@ Its features include:
     <td><img src = "images/DisplayingUpdatedFacultyDetails.jpeg" width = 200></td>
   </tr>
  </table>
+  <br>
+ <br>
+ <b>Displaying Features UI</b>
+ <br>
+<table>
+  <tr>
+    <td><b> Display Notice UI </b></td>
+     <td><b> Display Events Images UI </b></td>
+     <td><b> Display Ebook UI </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/DisplayNotice.jpeg" width = 200></td>
+    <td><img src = "images/DisplayEvents.jpeg" width = 200></td>
+    <td><img src = "images/DisplayEbook.jpeg" width = 200></td>
+  </tr>
+ </table>
+ <br>
+ <br>
 <b> Functionality & Concepts used : </b>
 
 - The App has a very simple and interactive interface which helps the students select their route bus and track its location. Following are few android concepts used to achieve the functionalities in app : 
