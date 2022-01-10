@@ -28,9 +28,7 @@ Its features include:
 <br>
 <b> Display Notice UI </b>
 <br>
-<img src = "images/DisplayNotice.jpeg" width = 200/>
-
-<img src = "images/DisplayNotice.jpeg" width = 200>
+<img src = "images/DisplayNotice.jpeg" width = 200/><img src = "images/DisplayNotice.jpeg" width = 200/>
 <br>  	  	
 <b> Functionality & Concepts used : </b>
 
