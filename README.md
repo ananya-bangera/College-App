@@ -22,13 +22,16 @@ Its features include:
 - [x] Inserting, Updating and Displaying of Faculty Info
 <br>
 <b> Home Page UI </b>
-
+<br>
 <img src = "images/HomePageUI.jpeg" width = 200>
 <br>
+<br>
 <b> Display Notice UI </b>
+<br>
+<img src = "images/DisplayNotice.jpeg" width = 200>
 
 <img src = "images/DisplayNotice.jpeg" width = 200>
-    	  	
+<br>  	  	
 <b> Functionality & Concepts used : </b>
 
 - The App has a very simple and interactive interface which helps the students select their route bus and track its location. Following are few android concepts used to achieve the functionalities in app : 
