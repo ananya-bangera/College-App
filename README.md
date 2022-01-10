@@ -12,7 +12,7 @@ A proper system to store data such as :
 - [x] Ebooks uploaded by the professors and classmates 
 <br>
 Technology plays a vital role in day-to-day life activities which in turn made great changes in many work fields and out of them Mobile Application is one of the major developments. Mobile Application can be used effectively for this job as they are widely used and are known for easy access.
-
+<br>
 <b> Proposed Solution : </b>
 
 This project proposes a “College Data Storage System” to keep track of the college information.
