@@ -38,11 +38,13 @@ Its features include:
     <td><b> Upload Notice UI </b></td>
      <td><b> Upload Images UI </b></td>
      <td><b> Upload Ebook UI </b></td>
+    <td><b> Insert Faculty UI </b></td>
   </tr>
   <tr>
     <td><img src = "images/UploadNotice.jpeg" width = 200></td>
     <td><img src = "images/UploadImage.jpeg" width = 200></td>
     <td><img src = "images/UploadEbook.jpeg" width = 200></td>
+    <td><img src = "images/AddTeacher.jpeg" width = 200></td>
   </tr>
  </table>
  <br>
