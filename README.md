@@ -22,9 +22,11 @@ Its features include:
 - [x] Inserting, Updating and Displaying of Faculty Info
 <br>
 <b> Home Page UI </b>
+
 <img src = "images/HomePageUI.jpeg" width = 200>
 <br>
 <b> Display Notice UI </b>
+
 <img src = "images/DisplayNotice.jpeg" width = 200>
     	  	
 <b> Functionality & Concepts used : </b>
