@@ -21,7 +21,7 @@ Its features include:
 - [x] Uploading and Displaying of Ebooks (A substitute for Hard copies of notes)
 - [x] Inserting, Updating and Displaying of Faculty Info
  
-![](images/HomePageUI.jpeg 100x20)
+<img src = "images/HomePageUI.jpeg" width = 200>
     	  	
 <b> Functionality & Concepts used : </b>
 
