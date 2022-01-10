@@ -31,7 +31,8 @@ Its features include:
     <td><img src = "images/HomePageUI.jpeg" width = 200>></td>
   </tr>
  </table>
-
+ <br>
+ <br>
 <table>
   <tr>
     <td><b> Upload Notice UI </b></td>
@@ -42,6 +43,22 @@ Its features include:
     <td><img src = "images/UploadNotice.jpeg" width = 200></td>
     <td><img src = "images/UploadImage.jpeg" width = 200></td>
     <td><img src = "images/UploadEbook.jpeg" width = 200></td>
+  </tr>
+ </table>
+ <br>
+ <br>
+  <b>Faculty Data</b>
+ <br>
+ <table>
+  <tr>
+    <td><b> Displaying Faculty Details Before Updating</b></td>
+     <td><b> Updating Faculty Details </b></td>
+     <td><b> Displaying Faculty Details Before Updating</b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/DisplayingFacultyDetails.jpeg" width = 200></td>
+    <td><img src = "images/UpdateTeacherDetails.jpeg" width = 200></td>
+    <td><img src = "images/DisplayingUpdatedFacultyDetails.jpeg" width = 200></td>
   </tr>
  </table>
 <b> Functionality & Concepts used : </b>
