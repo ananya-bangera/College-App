@@ -3,7 +3,7 @@
 
 College Data Storage System
 
-<b> ## Problem Statement: </b>
+<b> Problem Statement: </b>
 
 Over a great period, many issues have been faced by our students due to college in online mode. 
 A proper system to store data such as :
@@ -12,7 +12,7 @@ A proper system to store data such as :
 - [x] Ebooks uploaded by the professors and classmates 
 Technology plays a vital role in day-to-day life activities which in turn made great changes in many work fields and out of them Mobile Application is one of the major developments. Mobile Application can be used effectively for this job as they are widely used and are known for easy access.
 
-<b>## Proposed Solution : </b>
+<b> Proposed Solution : </b>
 
 This project proposes a “College Data Storage System” to keep track of the college information.
 Its features include:
@@ -20,7 +20,7 @@ Its features include:
 - [x] Announcements of future events and Pics of Past Events 
 - [x] Uploading and Displaying of Ebooks (A substitute for Hard copies of notes)
 - [x] Inserting, Updating and Displaying of Faculty Info
-Home Page UI
+<b> Home Page UI </b>
 <img src = "images/HomePageUI.jpeg" width = 200>
 
 Display Notice UI
