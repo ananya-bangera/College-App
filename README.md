@@ -21,7 +21,7 @@ Its features include:
 - [x] Uploading and Displaying of Ebooks (A substitute for Hard copies of notes)
 - [x] Inserting, Updating and Displaying of Faculty Info
  
-<img width="559" alt="sampleimages" src="https://user-images.githubusercontent.com/18289261/142846646-a6858641-ad88-43aa-b8bb-b690fd7126f1.png">
+![](images/HomePageUI.jpeg)
     	  	
 <b> Functionality & Concepts used : </b>
 
